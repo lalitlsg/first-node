@@ -1,0 +1,19 @@
+.main-header {
+  border-bottom: 1px solid #bfbfbf;
+}
+
+.main-header nav ul {
+  list-style: none;
+  display: flex;
+}
+
+.main-header nav a {
+  text-decoration: none;
+  margin-left: 10px;
+  color: black;
+}
+
+.main-header nav a:hover,
+.main-header nav a.active {
+  color: #77d5e6;
+}

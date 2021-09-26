@@ -1,0 +1,12 @@
+main form .form-control {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  width: 50%;
+}
+
+main form .form-control label,
+main form .form-control input {
+  margin-bottom: 10px;
+}
